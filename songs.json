@@ -630,53 +630,48 @@
     "url": "https://raw.githubusercontent.com/ArjuNatsu/mymusic/main/songs/Leon James, Sid Sriram, Sanjana Kalmanje - Vazhithunaiye (SPOTISAVER).mp3"
   },
   {
-    "title": "Pavazha Malli (From Think Indie)",
-    "artist": "Sai Abhyankkar, Shruti Haasan, Vivek",
-    "url": "https://raw.githubusercontent.com/ArjuNatsu/mymusic/main/songs/Pavazha_Malli_SpotiDost.mp3"
-  },
-  {
-    "title": "Naanga Naalu Peru (From Karuppu)",
-    "artist": "Sai Abhyankkar, Silambarasan TR, Asal Kolaar",
-    "url": "https://raw.githubusercontent.com/ArjuNatsu/mymusic/main/songs/Naanga_Naalu_Peru_SpotiDost.mp3"
-  },
-  {
-    "title": "Karuppa Kooda Va",
-    "artist": "Sai Abhyankkar, V.M. Mahalingam, Pa. Vijay",
-    "url": "https://raw.githubusercontent.com/ArjuNatsu/mymusic/main/songs/Karuppa_Kooda_SpotiDost.mp3"
-  },
-  {
-    "title": "Raathu Raasan (From Karuppu)",
-    "artist": "Sai Abhyankkar, V.M. Mahalingam, Paal Dabba",
-    "url": "https://raw.githubusercontent.com/ArjuNatsu/mymusic/main/songs/Raathu_Raasan_SpotiDost.mp3"
-  },
-  {
-    "title": "Kanimaa (From Retro)",
-    "artist": "Santhosh Narayanan, The Indian Choral Ensemble, Vivek",
-    "url": "https://raw.githubusercontent.com/ArjuNatsu/mymusic/main/songs/Kanimaa_SpotiDost.mp3"
-  },
-  {
-    "title": "Seelay Seelay",
-    "artist": "Sean Roldan, Chinmayi, Uma Devi",
-    "url": "https://raw.githubusercontent.com/ArjuNatsu/mymusic/main/songs/Seelay_Seelay_SpotiDost.mp3"
-  },
-  {
-    "title": "Chillanjirukkiye",
-    "artist": "Sean Roldan, Pradeep Kumar, Sivaangi Krishnakumar",
-    "url": "https://raw.githubusercontent.com/ArjuNatsu/mymusic/main/songs/Chillanjirukkiye_SpotiDost.mp3"
-  },
-  {
-    "title": "Aiyo Kadhaley",
-    "artist": "Sean Roldan, Vijaynarain, Mohan Rajan",
-    "url": "https://raw.githubusercontent.com/ArjuNatsu/mymusic/main/songs/Aiyo_Kadhaley_SpotiDost.mp3"
-  },
-  {
-    "title": "Kanna Veesi",
-    "artist": "Siddhu Kumar, Rahul, Srinisha Jayaseelan",
-    "url": "https://raw.githubusercontent.com/ArjuNatsu/mymusic/main/songs/Kanna_Veesi_SpotiDost.mp3"
-  },
-  {
-    "title": "Vizhi Veekura (From Think Indie)",
-    "artist": "Sai Abhyankkar, Sai Smriti, Adesh Krishna",
-    "url": "https://raw.githubusercontent.com/ArjuNatsu/mymusic/main/songs/Vizhi_Veekura_SpotiDost.mp3"
-  }
+  "title": "Vizhi Veekura (From Think Indie)",
+  "artist": "SpotiDost",
+  "url": "https://raw.githubusercontent.com/ArjuNatsu/mymusic/main/songs/Vizhi_Veekura_SpotiDost.mp3"
+},
+{
+  "title": "Pavazha Malli (From Think Indie)",
+  "artist": "SpotiDost",
+  "url": "https://raw.githubusercontent.com/ArjuNatsu/mymusic/main/songs/Pavazha_Malli_SpotiDost.mp3"
+},
+{
+  "title": "Naanga Naalu Peru (From Karuppu)",
+  "artist": "SpotiDost",
+  "url": "https://raw.githubusercontent.com/ArjuNatsu/mymusic/main/songs/Naanga_Naalu_Peru_SpotiDost.mp3"
+},
+{
+  "title": "Karuppa Kooda Va",
+  "artist": "SpotiDost",
+  "url": "https://raw.githubusercontent.com/ArjuNatsu/mymusic/main/songs/Karuppa_Kooda_SpotiDost.mp3"
+},
+{
+  "title": "Raathu Raasan (From Karuppu)",
+  "artist": "SpotiDost",
+  "url": "https://raw.githubusercontent.com/ArjuNatsu/mymusic/main/songs/Raathu_Raasan_SpotiDost.mp3"
+},
+{
+  "title": "Kanimaa (From Retro)",
+  "artist": "SpotiDost",
+  "url": "https://raw.githubusercontent.com/ArjuNatsu/mymusic/main/songs/Kanimaa_SpotiDost.mp3"
+},
+{
+  "title": "Seelay Seelay",
+  "artist": "SpotiDost",
+  "url": "https://raw.githubusercontent.com/ArjuNatsu/mymusic/main/songs/Seelay_Seelay_SpotiDost.mp3"
+},
+{
+  "title": "Chillanjirukkiye",
+  "artist": "SpotiDost",
+  "url": "https://raw.githubusercontent.com/ArjuNatsu/mymusic/main/songs/Chillanjirukkiye_SpotiDost.mp3"
+},
+{
+  "title": "Aiyo Kadhaley",
+  "artist": "SpotiDost",
+  "url": "https://raw.githubusercontent.com/ArjuNatsu/mymusic/main/songs/Aiyo_Kadhaley_SpotiDost.mp3"
+}
 ]
